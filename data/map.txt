@@ -1,0 +1,129 @@
+861 64
+0 0 15 10
+chat_gpt_4
+1 16 29 12
+meta_llama_2
+2 30 41 11
+google_bard
+3 42 53 14
+openai_dalle_3
+4 54 65 4
+aiva
+5 66 83 17
+aws_codewhisperer
+6 84 95 7
+beatbot
+7 96 109 6
+claude
+8 110 123 8
+beatoven
+9 124 137 8
+codiumai
+10 138 149 11
+dreamstudio
+11 150 161 14
+github_copilot
+12 162 173 7
+imagine
+13 174 185 8
+soundful
+14 186 198 16
+sourcegraph_cody
+15 199 210 6
+mubert
+16 211 221 7
+godmode
+17 222 231 16
+learningstudioai
+18 232 241 7
+uimagic
+19 242 253 16
+text_to_video_ai
+20 254 263 11
+magicslides
+21 264 273 7
+tutorai
+22 274 285 8
+agentgpt
+23 286 297 11
+postperfect
+24 298 306 7
+simpler
+25 307 315 6
+dragan
+26 316 331 9
+scholarcy
+27 332 342 5
+smexy
+28 343 355 7
+autogpt
+29 356 367 16
+generated_photos
+30 368 380 6
+kaiber
+31 381 390 8
+openread
+32 391 402 6
+ess_ai
+33 403 416 7
+finecam
+34 417 427 8
+tethered
+35 428 439 16
+gpt_prompt_tuner
+36 440 449 26
+eskilled_ai_course_creator
+37 450 459 27
+coursebox_ai_course_creator
+38 460 471 5
+typpo
+39 472 483 4
+hal9
+40 484 500 7
+voicify
+41 501 511 9
+showspace
+42 512 525 10
+fictiongpt
+43 526 540 10
+kiwi_video
+44 541 552 10
+deepreview
+45 553 566 6
+elicit
+46 567 580 10
+sincode_ai
+47 581 593 9
+summarist
+48 594 611 18
+programming_helper
+49 612 628 14
+decisionmentor
+50 629 646 7
+saveday
+51 647 663 12
+ask_your_pdf
+52 664 679 8
+kinky_ai
+53 680 694 12
+academic_gpt
+54 695 710 9
+quick_vid
+55 711 725 13
+swot_analysis
+56 726 743 8
+foxyapps
+57 744 760 13
+easy_peasy_ai
+58 761 777 9
+chain_gpt
+59 778 793 13
+architect_gpt
+60 794 810 8
+learngpt
+61 811 826 25
+ai_toolbox_for_innovators
+62 827 843 8
+flirtify
+63 844 860 10
+alcotravel
